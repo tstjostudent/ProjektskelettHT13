@@ -28,7 +28,7 @@ Oordnade listpor:
 * Element 1
 * Element 2
 
-Skriva kod?
+Skriva kod? OK
 ```css
 #selector a {egenskap: varde; }
 ```
