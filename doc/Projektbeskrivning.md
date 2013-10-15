@@ -26,4 +26,3 @@ Projektmedlemmar:
 
 ## Tidsplanering
 *Länka till tidsplaneringen här, eller fäll in som en bild.*
-
